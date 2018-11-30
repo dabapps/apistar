@@ -76,3 +76,7 @@ Open `http://127.0.0.1:5000/docs/` in your browser:
 <p align="center">
     <img src="https://raw.githubusercontent.com/encode/apistar/master/docs/img/ident-44-square-light.png" alt="API Star" />
 </p>
+
+## Code of conduct
+
+For guidelines regarding the code of conduct when contributing to this repository please review [https://www.dabapps.com/open-source/code-of-conduct/](https://www.dabapps.com/open-source/code-of-conduct/)
